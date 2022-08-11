@@ -1,0 +1,1 @@
+# JavaScript-Rastgele-Sayi-Uretme
